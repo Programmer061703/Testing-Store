@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGNnUIOu6ayY/a/DyCaCaJDu6hWVURWMuotlfBPs85O7paNjbjrM2uMK4GCjMJ7Qzyg5nMMQjKd6F+OpbjLDlQ==",
+  "dgSpecHash": "YaX6RR+nylbwBMHAPqbv+ZkdpvwuqJKIYZBmO9WyLxxmTLDjCy0YnDWpYyX7MZLOFqEdLC0L+wbpo9V0jEma7A==",
   "success": true,
-  "projectFilePath": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
+  "projectFilePath": "c:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blake\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\blake\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",

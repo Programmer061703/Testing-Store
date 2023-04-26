@@ -51,7 +51,6 @@ C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-mips
 C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
 C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
 C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
 C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
 C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
 C:\Atha-WilliamsStore\AthaWilliamsStore\API\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so

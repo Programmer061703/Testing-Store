@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj": {}
+    "c:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj": {
+    "c:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
+        "projectUniqueName": "c:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
+        "projectPath": "c:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\blake\\.nuget\\packages\\",
-        "outputPath": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\obj\\",
+        "outputPath": "c:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blake\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,8 +43,6 @@
               "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },
