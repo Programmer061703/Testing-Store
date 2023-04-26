@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AthaWilliamsShop\\API\\API.csproj": {}
+    "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\AthaWilliamsShop\\API\\API.csproj": {
+    "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AthaWilliamsShop\\API\\API.csproj",
+        "projectUniqueName": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\AthaWilliamsShop\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Blake Williams\\.nuget\\packages\\",
-        "outputPath": "C:\\AthaWilliamsShop\\API\\obj\\",
+        "projectPath": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\blake\\.nuget\\packages\\",
+        "outputPath": "C:\\Atha-WilliamsStore\\AthaWilliamsStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Blake Williams\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\blake\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
