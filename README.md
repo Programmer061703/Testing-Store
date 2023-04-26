@@ -1,2 +1,2 @@
-# AthaWilliamsStore
-Simple store to list board games created by AthaWilliamsCorp
+# Testing Store
+Simple Store to test abilites to develop a e-commerce store
